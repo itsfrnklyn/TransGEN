@@ -1,0 +1,12 @@
+# Local environment configuration
+.env
+.env.*
+!.env.example
+!.env.*.example
+
+# Operating system and editor scratch files
+.DS_Store
+Thumbs.db
+*~
+*.swp
+*.swo
